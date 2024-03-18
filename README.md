@@ -3,4 +3,4 @@
 
 <img width="589" alt="image" src="https://github.com/vegetablechicken5437/RacingCAR-3D/assets/89286708/5f5c1ac5-597a-41fb-8042-8c1b0621b320">
 
-![Uploading racing_car_demo.gif…]()
+![racing_car_demo](https://github.com/vegetablechicken5437/RacingCAR-3D/assets/89286708/e2ccdd42-154e-45f0-a535-21b153610946)
